@@ -1,0 +1,27 @@
+extends layout
+
+block content
+  .container
+    header
+      .item
+        h1= resume.header.title
+        ul
+          li= resume.header.phone
+          li= resume.header.email
+          li= resume.header.link
+        p= resume.header.summary
+    section
+      - for (var sectionKey in resume.sections)
+        - var section = resume.sections[sectionKey]
+        div.section
+          h2= section.title
+          ul.item
+            - for (var itemKey in section.items)
+              - var item = section.items[itemKey]
+              li
+                include _item
+    aside
+      h3 Bonus Section
+      ul
+        - each bonus in resume.bonus
+          li= bonus

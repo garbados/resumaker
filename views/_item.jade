@@ -1,0 +1,10 @@
+.item
+  - if (item.at)
+    p: strong= item.title + " at " + item.at
+  - else
+    p: strong= item.title
+  ul
+    li= item.time
+    - if (item.link)
+      li= item.link
+p= item.summary
