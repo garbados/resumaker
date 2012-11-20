@@ -19,5 +19,5 @@ Visit `localhost:3000` in a browser of your choice, print the page as a PDF, and
 Mess with these files:
 
 * resume.yml: your data
-* index.jade: overall layout
-* _item.jade: per-item layout
+* views/index.jade: overall layout
+* views/_item.jade: per-item layout
