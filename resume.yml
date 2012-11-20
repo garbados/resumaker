@@ -1,0 +1,115 @@
+# sample resume!
+header:
+  title: "Max Thayer"
+  email: "garbados@gmail.com"
+  link: "www.maxthayer.org"
+  phone: "503.757.5754"
+  summary: "Commanding broad technical experience and a knack for community, I use my skills to lift up those around me, and build a better world together."
+sections:
+  projects:
+    title: "Projects"
+    items:
+      alleyways:
+        title: "Klyk"
+        link: "http://www.maxthayer.com/games/alleyways"
+        time: "08/2012 - Present"
+        summary: "Social mystery game. Find clues by physically meeting other players. In progress as web app."
+      # todogame:
+      #   title: "Todogame"
+      #   link: "http://todo-game.herokuapp.com"
+      #   time: "09/2012 - Present"
+      #   summary: "Gamify getting stuff done. Get points for completing tasks; app uses points to give feedback."
+      html5boston:
+        title: "Boston HTML5 Game Development Project Night"
+        link: "http://www.meetup.com/Boston-HTML5-Game-Development/"
+        time: "10/2012 - Present"
+        summary: "Bring together members of the community to network, discuss tech, and build sweet games."
+      # intapre:
+      #   title: "Intapre"
+      #   time: "09/2012 - Present"
+      #   summary: "Interview prep; post interview questions, rank them, answer them, and rank other answers."
+  professional:
+    title: "Professional Experience"
+    items:
+      bss:
+        title: "Marketing Student"
+        at: "Boston Startup School"
+        time: "11/2012 - Present"
+        summary: "Studied and practiced analytics, content marketing, and lead gen from startup veterans."
+      pygame:
+        title: "HTML5 Game Development Tutor"
+        time: "09/2012 - Present"
+        summary: "Teach students to design games, program them, and learn from the developer community."
+      wefunder:
+        title: "Support Intern"
+        at: "Wefunder"
+        time: "10/2012 - 11/2012"
+        summary: "Resolve user issues; triage new bugs; patch Rails code when I can, escalate what I can’t."
+      signedon:
+        title: "JavaScript Developer"
+        at: "SignedOn"
+        time: "07/2012 - 08/2012"
+        summary: "Document and test backend and frontend JavaScript; compose marketing copy."
+      matchbox:
+        title: "Python/Django Developer"
+        at: "Matchbox"
+        time: "01/2012 - 05/2012"
+        summary: "Develop customer-facing views; improve user security; compose hiring copy."
+      scrapy:
+        title: "Python/Scrapy Programmer"
+        at: "University of Oregon"
+        time: "06/2011 - 12/2011"
+        summary: "Develop web scrapers to research open innovation; direct programming team as it grew."
+      tutor:
+        title: "Business and Economics Tutor"
+        at: "University of Oregon"
+        time: "01/2010 - 06/2011"
+        summary: "Relate theory and practice to 1-10 students at a time; used feedback to improve courses."
+  community:
+    title: "Community Involvement"
+    items:
+      venturecafe:
+        title: "Volunteer"
+        at: "VentureCafe"
+        time: "05/2012 - Present"
+        summary: "Greet, welcome, and direct visitors; test, improve, and otherwise own greeter process."
+      sundayschool:
+        title: "Sunday School Teacher"
+        at: "St. James Episcopal Church"
+        time: "09/2012 - Present"
+        summary: "Lift children ages 4-13 with good life lessons learned through practice and projects."
+      organizer:
+        title: "Startup Organizer"
+        time: "08/2012 - 11/2012"
+        summary: "Bring teams together for work sprints; organize deliverables, delegate tasks, cook food."
+      vestry:
+        title: "Vestry Member"
+        at: "St. James Episcopal Church"
+        time: "09/2011 - 09/2014"
+        summary: "Minister of Web, apprentice treasurer, resident agnostic."
+      consultant:
+        title: "Volunteer Consultant"
+        time: "06/2010 - 09/2011"
+        summary: "Mentor student entrepreneurs, propelling their ideas to an executable stage."
+  education:
+    title: "Academic Experience"
+    items:
+      psu:
+        title: "System Sciences Student"
+        at: "Portland State University"
+        time: "06/2011 - 08/2011"
+        summary: "Studied system sciences in business, government, and natural systems."
+      uo:
+        title: "B.S. in General Social Sciences"
+        at: "University of Oregon"
+        time: "09/2009 - 09/2011"
+        summary: "Concentrated in economics, business, politics, and history; minored in Computer Science."
+      earlham:
+        title: "Comparative Linguistics Student"
+        at: "Earlham College"
+        time: "08/2007 - 05/209"
+        summary: "Studied French, Japanese, sociolinguistics; started Earlham Writing Project workshop."
+bonus:
+  - "I began designing pen-and-paper games in 2009. I have since written seven games."
+  - "I write horror stories, but still scare easy."
+  - "In college, I transferred, changed majors four times, dropped out; still graduated on time."
